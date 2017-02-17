@@ -1,2 +1,2 @@
 # Beitrittsanfrage
-Schüler und Lehrer der GibmIT Pratteln können hier einen Pull request anlegen um zur organisation hinzugefügt zu werden
+Schüler und Lehrer der GibmIT Pratteln können hier ein "Issue" melden um zur Organisation hinzugefügt zu werden
